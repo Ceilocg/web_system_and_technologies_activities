@@ -2,9 +2,10 @@
 # 🖥️Web Systems And Technologies 
 ## 💡 Desription:
 👁️‍🗨️To present all projects files
-#### 📂 Activity 1 (HTML TAGS)
-#### 📂 Activity 2 (readme.md)
-#### 📂 Activity 3 (CSS)
+ 📂 Activity 1 (HTML TAGS)
+ 📂 Activity 2 (readme.md)
+ 📂 Activity 3 (CSS)
+ 📂 Activity 4 (JavaScript Valid Variable Names)
 
 ## 🤸Members:
 
@@ -27,9 +28,11 @@
 
 
 ## 🧠Acknowledge
-#### We would like to express our gratitude to the following people and resources:
-#### 🧑‍🏫Anthony Gacis 
+ We would like to express our gratitude to the following people and resources:
+
+🧑‍🏫Anthony Gacis 
 Our Web Systems and Technology Teacher for sharing his knowledge, in order us to develop this project 
+
 #### Resources:
 💻 [readme.so](https://readme.so/) 
 
